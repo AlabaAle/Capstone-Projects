@@ -41,5 +41,10 @@ iii.Importing of data from excel to     SQL then Power Bi.
 
 ### Data Transformation
 . Data was transformed to thoroughly clean, remove issues and increase column quality of data, column distribution and profile to 100%.
- i. Data Types and Formatting;This was to ensure the data fields were assigned the correct data type
+ i. Data Types and Formatting;This was to ensure the data fields were assigned the correct data type with numerical fields formatted as whole numbers, text as text and date fields set to date format.
+ii. Sorting: Sorted the dataset by the Date column to organize transactions chronologically.
+iii. Created New Columns: Added a new column to have more calculations like Revenue.
+
+### Data Analizing
+Some of the code used to analysed the data are:
 
