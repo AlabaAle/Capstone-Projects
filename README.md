@@ -28,14 +28,22 @@ The main source of data here is Capstone sales data.csv which was previously an 
 ### Data Description
 ---
 The data dedcription includes the following;
+
 i. Customer ID; An identifier given 
    given each customer.
+
 ii.Product name; Items sold in the     store.
+
 iii.Region; Names of regions where     sales were made.
+
 iv. Order date; Dates order of         products were made.
+
 v. Quantity; Number of items           purchased or sold.
+
 vi.Unit Price; Price per item sold.
+
 vii.Total Sales; Sum of sales or        items sold.
+
 ### Tools Used
 1. Microsoft excel[Download Here](https://www.Microsoft.com)
    i. for data input
