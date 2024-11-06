@@ -2,19 +2,19 @@
 ## Project title: Capstone Sales Data
 ### Outline
 ---
-[Project Overview](#project overview)
+[Project Overview](#project-overview)
 
-Data Sources
+[Data Sources](#data-source)
 
-Data Description
+[Data Description](#data-description)
 
-Data Cleaning and Peeparation
+[Data Cleaning and Peeparation](#datacleaningandprepatation)
 
-Data Transformation
+[Data Transformation](data-transformation)
 
-Data Analysis
+[Data Analysis](#data-analysis)
 
-Data Visualization
+[Data Visualization](#data-visualization)
 
 
 ### Project Overview
