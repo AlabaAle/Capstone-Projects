@@ -23,9 +23,9 @@ vii.Total Sales; Sum of sales or        items sold.
    ii. for data cleaning
    iii.for data analysis
    iv. for data visualization
-2. Microsoft SQL server
+2. Microsoft SQL server[Download Here](https://www.Microsoft Sql Server.com)
    To query and manage data
-3. Microsoft Power BI
+3. Microsoft PowerBI[Download Here](https://www.Microsoft.com)
    i. For data transformation
    ii.for data visualization
    iii.for data modelling
