@@ -63,8 +63,11 @@ vii.Total Sales; Sum of sales or        items sold.
  ### Data Cleaning And Preparation 
  ---
 In the initial data entry phase the following actions were performed;
+
 i. Ensuring data quality by            correcting spellings errors,        removing duplicates entries and     addressing missing values.
+
 ii.Standardization; made to            standard by using find and          replace in certain fields
+
 iii.Importing of data from excel to     SQL then Power Bi.
 
 ### Data Transformation
