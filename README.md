@@ -18,7 +18,7 @@ v. Quantity; Number of items           purchased or sold.
 vi.Unit Price; Price per item sold.
 vii.Total Sales; Sum of sales or        items sold.
 ### Tools Used
-1. Microsoft excel
+1. Microsoft excel[Download Here](https://www.Microsoft.com)
    i. for data input
    ii. for data cleaning
    iii.for data analysis
