@@ -56,11 +56,14 @@ vii.Total Sales; Sum of sales or        items sold.
 
 3. Microsoft PowerBI[Download Here](https://www.Microsoft.com)
    i. For data transformation
+
    ii.for data visualization
+
    iii.for data modelling
+
    iv.to create reports and              dashboards that can easily be       understood using pictures or        visuals.
 
-4.  Github
+5.  Github
     For Portfolio building.
 
  ### Data Cleaning And Preparation 
@@ -75,7 +78,7 @@ iii.Importing of data from excel to     SQL then Power Bi.
 
 ### Data Transformation
 ---
-. Data was transformed to thoroughly clean, remove issues and increase column quality of data, column distribution and profile to 100%.
+ Data was transformed to thoroughly clean, remove issues and increase column quality of data, column distribution and profile to 100%.
 
  i. Data Types and Formatting;This was to ensure the data fields were assigned the correct data type with numerical fields formatted as whole numbers, text as text and date fields set to date format.
 
