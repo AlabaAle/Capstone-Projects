@@ -1,4 +1,4 @@
-# Capstone-Projects
+see# Capstone-Projects
 ## Project title: Capstone Sales Data
 ### Outline
 ---
@@ -50,13 +50,16 @@ vii.Total Sales; Sum of sales or        items sold.
    ii. for data cleaning
    iii.for data analysis
    iv. for data visualization
+
 2. Microsoft SQL server[Download Here](https://www.MicrosoftSqlServer.com)
    To query and manage data
+
 3. Microsoft PowerBI[Download Here](https://www.Microsoft.com)
    i. For data transformation
    ii.for data visualization
    iii.for data modelling
    iv.to create reports and              dashboards that can easily be       understood using pictures or        visuals.
+
 4.  Github
     For Portfolio building.
 
