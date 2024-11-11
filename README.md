@@ -1,4 +1,4 @@
-see# Capstone-Projects
+# Capstone-Projects
 ## Project title: Capstone Sales Data
 ### Outline
 ---
